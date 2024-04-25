@@ -19,8 +19,7 @@ def file_manager():
         ".pptx": "PowerPoint",
         ".jpeg": "Images",
         ".png": "Images",
-        ".xlsx": "Excel",
-        ".xlsm": "Excel"
+        
     }
 
     path_to_manage = path_translation(argv[1])

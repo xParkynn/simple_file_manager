@@ -18,7 +18,7 @@ Currently supported:
 * mp4
 
 To add file types, simply follow the scheme in the file_folder_correlation.
-Keys: file ending / file type (e. g. ".pdf")
+Keys: file ending / file type (e.g. ".pdf")
 Value: Folder Name
 
 ## This project is open-source and everyone can use it.
