@@ -23,4 +23,6 @@ To add file types, simply follow the scheme in the file_folder_correlation.
 Keys: file ending / file type (e.g. ".pdf")
 Value: Folder Name
 
+### Important: Put the Windows-Path in "path" as Python will escape your "\" in the path
+
 ## This project is open-source and everyone can use it.
