@@ -4,7 +4,7 @@ from sys import argv
 def file_manager():
     """
     Usage: execute script with windows path as argument
-    Supported Types: pdf, mp3, mp4, doc, docx, ppt, pptx, jpeg, png
+    Supported Types: pdf, mp3, mp4, doc, docx, ppt, pptx, jpeg, png, xlsm, xlsx
     To add types, simply add them to file_folder_correlation
     """
 
@@ -19,6 +19,8 @@ def file_manager():
         ".pptx": "PowerPoint",
         ".jpeg": "Images",
         ".png": "Images",
+        ".xlsx": "Excel",
+        ".xlsm": "Excel"
         
     }
 

@@ -16,6 +16,8 @@ Currently supported:
 * pptx
 * mp3
 * mp4
+* xlsm
+* xlsx
 
 To add file types, simply follow the scheme in the file_folder_correlation.
 Keys: file ending / file type (e.g. ".pdf")
